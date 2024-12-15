@@ -17,7 +17,7 @@ import ListItemButton from '@mui/material/ListItemButton';
 import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
 import DriveEtaIcon from '@mui/icons-material/DriveEta';
-import VehicleList from './vehicleList';
+import VehicleList from './vehicle/vehicleList';
 const drawerWidth = 240;
 const openedMixin = (theme: Theme): CSSObject => ({
   width: drawerWidth,
